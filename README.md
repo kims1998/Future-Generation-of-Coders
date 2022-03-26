@@ -18,3 +18,8 @@ Inside the Index.html:
 Inside the Style.css:
 
     * I noticed that there were repeating values. In this case, to minimize the amount of lines, I combined each class and gave it the same value instead of separately.
+
+To view the Deployed URL, you can utilize this link: "https://kims1998.github.io/Future-Generation-of-Coders/"
+To view the screen shots:
+![alt text](assets/images/Horiseon_Page_1.jpg) "Top Portion of the web page"
+![alt text](assets/images/Horiseon_Page_2.jpg) "Bottom Portion of the web page"
